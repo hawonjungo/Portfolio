@@ -113,7 +113,7 @@ body {
 	height: 100%;
 
   position: fixed;
-  height: 100px;
+  height: 100rem;
   overflow: hidden;
 
   display: flex;
